@@ -3,4 +3,4 @@ tarea y un botón que al ser presionado agregue dicha tarea a una lista, cada el
 debe poder ser eliminado con un botón creado para ese fin. 
 */
 let listaDeTareas = []
-let tareas = '',
+let tareas = ''
